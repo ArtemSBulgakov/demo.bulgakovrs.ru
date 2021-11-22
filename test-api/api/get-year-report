@@ -1,0 +1,19 @@
+{
+	"months": [
+		{"shifts": [500, 200, 300, 400], "total": 1400},
+		{"shifts": [600, 300, 400, 500], "total": 1800},
+		{"shifts": [700, 200, 300, 500], "total": 1700},
+		{"shifts": [600, 300, 400, 400], "total": 1700},
+		{"shifts": [600, 200, 400, 500], "total": 1700},
+		{"shifts": [null, null, null, null], "total": null},
+		{"shifts": [null, null, null, null], "total": null},
+		{"shifts": [null, null, null, null], "total": null},
+		{"shifts": [null, null, null, null], "total": null},
+		{"shifts": [null, null, null, null], "total": null},
+		{"shifts": [null, null, null, null], "total": null},
+		{"shifts": [null, null, null, null], "total": null}
+	],
+  "year": {"shifts": [3000, 1200, 1800, 2300], "total": 8300},
+  "generation-date": "15.06.2021 2:20 (Московское время)",
+	"request-params": {"year": 2021, "data-type": "made", "start-shift-from": 8}
+}

@@ -1,0 +1,15 @@
+{
+  "datetime": 1623712863,
+  "error_no_next_shift": true,
+  "power": true,
+  "battery": true,
+  "sensor_a_error": false,
+  "sensor_b_error": false,
+  "memory": 2500000,
+  "dataShift": {
+    "id": 0,
+    "all": 1500,
+    "made": 1400,
+    "broken-percent": 6
+  }
+}
